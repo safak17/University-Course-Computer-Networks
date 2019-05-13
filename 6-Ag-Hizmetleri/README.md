@@ -1,4 +1,4 @@
-# 6. Ağ Hizmetleri
+# 6. Ağ Hizmetleri
 
 **İstemci**, birisinin sunucuda bulunan bilgilere erişmek için kullandığı bilgisayar uygulamasına verilen addır.
 
@@ -44,7 +44,7 @@ Kaynak ve hedef IP adresi ile kaynak ve hedef bağlantı noktası numarasının 
 
 ![](./6-Photos/6-1-4.jpeg)
 
-#### 6.2.1 Etki Alanı Adlandırma Hizmeti (DNS)
+#### 6.2.1 Etki Alanı Adlandırma Hizmeti (DNS)
 
 Etki Alanı Adlandırma Sistemi (DNS), konak bilgisayarların belirli bir sunucun IP adresini istemek için bu adı kullanmasını sağlar (google.com = 172.217.169.174). DNS adları, İnternet'te belirli üst seviyeli grup veya etki alanları içinde kayıtlı ve düzenlenmiş durumdadır. 
 
@@ -60,7 +60,7 @@ FTP istemci yazılımı bilgisayar işletim sistemine ve çoğu web tarayıcıs�
 
 ![624](./6-Photos/6-2-4.jpeg)
 
-#### Bağlantı Noktası Numaraları
+#### Bağlantı Noktası Numaraları
 
 Bağlantı noktaları, İnternet Tahsisli Sayılar ve İsimler Kurumu (Internet Corporation for Assigned Names and Numbers - ICANN) olarak bilinen bir kuruluş tarafından atanır ve yönetilir.
 
@@ -97,7 +97,7 @@ Katmanlı modelin birçok avantajı vardır:
 
 ![](./6-Photos/6-3-1.jpeg)
 
-#### 6.3.2 İleti Gönderme ve Alma Sırasında Protokolün Çalışması
+#### 6.3.2 İleti Gönderme ve Alma Sırasında Protokolün Çalışması
 
 ![632](./6-Photos/6-3-2.jpeg)
 
@@ -120,7 +120,7 @@ Bir ağda ileti alınırken, konak bilgisayardaki protokol yığını **aşağı
 
 ![](./6-Photos/6-3-3-3.jpeg)
 
-#### ÖZET
+#### ÖZET
 
 - TCP ve UDP gibi taşıma protokolleri, sunucular ve istemciler arasındaki her bir iletişimi yönetebilmek için **bağlantı noktası numaraları (port)** tanımlar.
 - IP, verilerin paketler halinde kapsüllenme şeklini ve mantıksal adresleme işlemini belirler.
