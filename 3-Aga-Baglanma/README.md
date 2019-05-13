@@ -1,4 +1,4 @@
-# 3. Ağa Bağlanma
+# 3. Ağa Bağlanma
 
 #### 3.1.5 Eşler Arası Ağlar
 
@@ -25,7 +25,7 @@ Her bilgisayar iletisi, ağ üzerinden gönderilmeden önce **çerçeve** adı v
 
 ![3-2-4](./3-Photos/324.jpeg)
 
-#### 3.2.6 İleti Zamanlama
+#### 3.2.6 İleti Zamanlama
 
 **Erişim Yöntemi**: Kişinin ileti gönderebileceği zamanı belirler. Ağdaki konak bilgisayarların, ileti göndermeye başlayacakları zamanı ve hata oluşunca nasıl yanıt vereceklerini bilmesi için bir erişim yöntemine ihtiyaçları vardır.
 
@@ -45,7 +45,7 @@ IEEE (Institute of Electrical and Electronics Engineers) 802.3 komitesi Ethernet
 
 ​	T, kablo tipini ifade eder, bu örnekteki kablo tipi bükümlü çifttir.
 
-#### 3.3.3 Fiziksel Adresleme
+#### 3.3.3 Fiziksel Adresleme
 
 Konak bilgisayarın ağda tanımlanmasını sağlamak için Ethernet ağına bağlı her konak bilgisayar bir fiziksel adres (Media Access Control - MAC) atanır.
 
@@ -79,7 +79,7 @@ Ip adresleri ağ ve konak olmak üzere iki bölümden oluşur. Ağ bölümü, ay
 
 ![3-3-6](./3-Photos/336.jpeg)
 
-#### 3.4.2 Dağıtıcıların İşlevi
+#### 3.4.2 Dağıtıcıların İşlevi
 
 Dağıtıcı, ethernet ağının **Erişim Katmanına** takılan bir tip ağ iletişim cihazıdır. Dağıtıcı yalnızca bir bağlantı noktasından gelen elektronik sinyalleri kabul eder ve diğer tüm bağlantı noktalarından aynı iletiyi yeniden oluşturur.
 
@@ -113,7 +113,7 @@ Yayınlar, bir konak bilgisayarın bilgi bulması gerektiğinde ancak diğer kon
 
 Yayın MAC Adresi: **FFFF . FFFF . FFFF**
 
-#### 3.4.7 Adres Çözümleme Protokolü (ARP - Address Resolution Protocol)
+#### 3.4.7 Adres Çözümleme Protokolü (ARP - Address Resolution Protocol)
 
 *Gönderen bir konak bilgisayarda yalnızca hedef konak bilgisayarın mantıksal IP adresi varsa ne olur? Gönderen konak bilgisayar, çerçeve içine hangi hedef MAC adresinin yerleştirileceğini nasıl belirler ?*
 
@@ -123,7 +123,7 @@ Gönderen konak bilgisayar, aynı yerel ağdaki herhangi bir konak bilgisayarın
 2. Ağdaki her konak bilgisayar yayın çerçevesini alır ve iletinin içindeki IP adresiyle kendininkini karşılaştırır. Aynı IP adresine sahip olan konak bilgisayar, MAC adresini başlangıçtaki gönderen konak bilgisayara geri gönderir.
 3. Gönderen konak bilgisayar iletiyi alır ve MAC adresi ile IP adresi bilgilerini ARP tablosu adı verilen bir tabloda saklar.
 
-#### 3.5.2 Yönlendiricilerin İşlevi
+#### 3.5.2 Yönlendiricilerin İşlevi
 
 Yönlendirici, yerel ağı başka yerel ağlara bağlayan bir ağ iletişim cihazıdır. Ağın Dağıtım Katmanında yönlendiriciler trafiği yönlendirir ve ağ işleminin verimliliği açısından kritik olan diğer işlevleri gerçekleştirir. Ancak yalnızca MAC adresi bilgilerini içeren çerçevelerin kodunu çözen anahtarlardan farklı olarak, **yönlendiriciler çerçeve içinde kapsüllenmiş paketin kodunu çözer**.
 
