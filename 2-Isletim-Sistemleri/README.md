@@ -16,6 +16,4 @@ Bir ağa fiziksel olarak bağlanması için bilgisayarda ağ arayüz kartının 
 
 - **Hizmet paketleri**, önemli işletim sistemi veya yazılım uygulaması güncellemeleridir.
 
-#### *Sorular*
-
 - Bir ağ teknisyeninin bilgisayara yeni bir işletim sistemi yüklemesi gerekmektedir. Veri, uygulama ve yapılandırma ayarları ile önceden bulunan bölümlemeyi korumak için **yükseltme** yöntemini kullanmalıdır.
