@@ -2,7 +2,7 @@
 
 Genel kablosuz iletişim için kullanılan en yaygın dalga boyları arasında **Kızılötesi** ve **Radyo Frekansı (RF)** bandının bir bölümü yer alır.
 
-#### 7.1.1 Kablosuz Teknolojiler ve Cihazlar
+#### 7.1.1 Kablosuz Teknolojiler ve Cihazlar
 
 Kızılötesi (IR - InfraRed), duvar veya diğer nesnelerden geçemez. Birebir bağlantı türüne izin verir. Genellikle kısa aralıklı ve görüş alanı içindeki iletişimler için kullanılır. 
 
@@ -12,7 +12,7 @@ Radyo frekansı (RF - Radio Frequency), duvarlardan ve diğer nesnelerden geçeb
 
 Bluetooth, 2.4 GHz bant kullanan bir teknolojidir ve aynı anda birçok aygıtla iletişim kurma avantajı vardır.
 
-#### 7.1.2 Kablosuz Teknolojilerin Avantajları ve Sınırlamaları
+#### 7.1.2 Kablosuz Teknolojilerin Avantajları ve Sınırlamaları
 
 - **Hareketlilik ve Esneklik**: Her zaman her yerde bağlantı sağlama yeteneği.
 - **Ölçeklenirlik**: Ağların bağlantı sınırlamaları olmadan kolayca genişleyebilirler.
@@ -27,7 +27,7 @@ Bluetooth, 2.4 GHz bant kullanan bir teknolojidir ve aynı anda birçok aygıtla
 
 ![](./7-Photos/7-1-3.jpeg)
 
-#### 7.2.1 Kablosuz LAN Standartları
+#### 7.2.1 Kablosuz LAN Standartları
 
 IEEE 802.11 standardı WLAN ortamını yönetir. Wi-Fi Alliance olarak bilinen başka bir kuruluş da farklı üreticilerin kablosuz LAN aygıtlarının test edilmesinden sorumludur. Bir cihazdaki Wi-Fi logosu, o ekipmanın standartları karşıladığı ve aynı standartlara sahip diğer cihazlarla birlikte çalışabileceği anlamına gelir.
 
@@ -52,7 +52,7 @@ IEEE 802.11 standardı WLAN ortamını yönetir. Wi-Fi Alliance olarak bilinen b
 
 ![](./7-Photos/7-2-2-3.jpeg)
 
-#### 7.2.3 WLAN'lar ve Hizmet Kümesi Tanımlayıcılar (SSID - Service Set Identifier)
+#### 7.2.3 WLAN'lar ve Hizmet Kümesi Tanımlayıcılar (SSID - Service Set Identifier)
 
 SSID en fazla 32 karakterden oluşan büyük/küçük harf duyarlı, alfasayısal bir dizgidir. WLAN üzerinden iletilen tüm çerçevelerin başlığında gönderilir. Kablosuz cihazlara hangi WLAN'a ait olduklarını ve başka hangi cihazlarla iletişim kurabileceklerini söylemek için SSID kullanılır.
 
