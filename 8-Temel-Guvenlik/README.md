@@ -2,7 +2,7 @@
 
 ![811](./8-Photos/8-1-1.jpeg)
 
-#### 8.1.3 Sosyal Mühendislik ve Oltalama (Phishing)
+#### 8.1.3 Sosyal Mühendislik ve Oltalama (Phishing)
 
 Sosyal mühendislik, bir kişinin veya bir grup insanın davranışını etkileme yeteneğini ifade eden bir terimdir. Bilgisayar ve ağ güvenliği bağlamında ele alınırsa, dahili kullanıcıları belirli eylemleri gerçekleştirmesi veya gizli bilgileri açıklaması için aldatmak amacıyla kullanılan teknikler bütünüdür.
 
@@ -62,13 +62,13 @@ Yama, belirli bir sorunu çözen küçük bir koddur. Güncelleme ise, belirli s
 
 Hem önleyici amaçlı hem de sorun çıktığında kullanılabilen bir araçtır. E-posta denetleme, yerleşik dinamik tarama, zamanlanmış taramalar ve otomatik güncelleştirmeler.
 
-#### 8.3.4 Spam Önleme
+#### 8.3.4 Spam Önleme
 
 Konak bilgisayar, kullanıcının bilgisi olmadan spam posta göndermek için kullanılır. Bu şekilde virüs bulaşmış bilgisayarlara **Spam değirmeni** denir.
 
 ![835](./8-Photos/8-3-5.jpeg)
 
-#### 8.4.1 Güvenlik Duvarı Nedir?
+#### 8.4.1 Güvenlik Duvarı Nedir?
 
 Güvenlik duvarı, iki veya daha fazla ağ arasında yerleşik olup bunlar arasındaki trafiği denetler ve yetkisiz erişimin önlenmesine yardımcı olur. Kısaca, ağa gelen ve ağdan giden trafiği denetler. NAT (Network Address Translation) kullanır.
 
@@ -76,7 +76,7 @@ Güvenlik duvarı, iki veya daha fazla ağ arasında yerleşik olup bunlar aras�
 2. **Uygulama / Web Sitesi Filtreleme**: Uygulamayı temel alarak erişimi önler veya erişime izin verir. Bir web sitesi URL adresi veya anahtar sözcükleri belirtilerek web siteleri engellenebilir.
 3. **Durumlu Paket İncelemesi (SPI)**: Gelen paketlerin, dahili konak bilgisayarların isteklerine ilişkin geçerli yanıtlar olması gerekir. İstenmeyen paketler, özel olarak izin verilmedikleri sürece engellenir. DoS gibi belirli saldırı türlerini tanıma ve filtreleme yeteneğine de sahip olabilir.
 
-#### 8.4.2 Güvenlik Duvarı Kullanma
+#### 8.4.2 Güvenlik Duvarı Kullanma
 
 Dahili ağ (intranet) ile İnternet arasında sınır aygıtı olarak güvenlik duvarının yerleştirilmesiyle, İnternet'e giden ve İnternet'ten gelen tüm trafik izlenebilir ve denetlenebilir. Böylece, dahili ve harici ağ arasında net bir savunma hattı oluşturulur. 
 
