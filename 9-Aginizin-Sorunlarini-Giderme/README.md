@@ -1,12 +1,12 @@
-# 9. Ağınızın Sorunlarını Giderme
+# 9. Ağınızın Sorunlarını Giderme
 
 Bir sorun bildirildiğinde, bunu doğrulayın ve kapsamını belirleyin. Sorun onaylandıktan sonra, sorun giderme sırasında atılacak ilk adım bilgi toplamadır.
 
-#### 9.1.2 Bilgi Toplama
+#### 9.1.2 Bilgi Toplama
 
 ![](./9-Photos/9-1-2.jpeg)
 
-#### 9.1.3 Sorun Gidermeye İlişkin Yaklaşımlar
+#### 9.1.3 Sorun Gidermeye İlişkin Yaklaşımlar
 
 ![](./9-Photos/9-1-3.jpeg)
 
