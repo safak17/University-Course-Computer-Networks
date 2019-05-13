@@ -1,4 +1,4 @@
-# BİLGİSAYAR AĞLARI
+# BİLGİSAYAR AĞLARI
 
 - 2 - İşletim Sistemleri
 - 3 - Ağa Bağlanma
