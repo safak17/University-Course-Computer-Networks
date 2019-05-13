@@ -8,7 +8,7 @@ Mantıksal 32 bit IP adresi hiyerarşik olup **ağ** ve **konak** olmak üzere i
 
 ![5-1-1](./5-Photos/5-1-1.jpeg)
 
-#### 5.1.4 IP Adreslerinin ve Alt Ağ Maskelerinin Etkileşim Kurma Biçimi
+#### 5.1.4 IP Adreslerinin ve Alt Ağ Maskelerinin Etkileşim Kurma Biçimi
 
 Alt ağ maskesi, IP adresinin hangi bölümünün ağ hangi bölümünün konak bilgisayara ait olduğu belirtir.
 
@@ -20,11 +20,11 @@ Alt ağ maskesi, IP adresinin hangi bölümünün ağ hangi bölümünün konak 
 
 ![İnternetten bir fotoğraf bul]()
 
-#### 5.2.1  IP Adresi Sınıfları ve Varsayılan Alt Ağ Maskeleri
+#### 5.2.1  IP Adresi Sınıfları ve Varsayılan Alt Ağ Maskeleri
 
 ![](./5-Photos/5-2-1.jpeg)
 
-#### 5.2.3 Tek Yayın, Yayın ve Çoklu Yayın Adresleri
+#### 5.2.3 Tek Yayın, Yayın ve Çoklu Yayın Adresleri
 
 **Tekli Yayın**
 
@@ -76,7 +76,7 @@ Tümleşik yönlendirici, Ethernet kablosuyla veya kablosuz olarak kendisine ba�
 
 ![5-4-2](./5-Photos/5-4-2.jpeg)
 
-#### 5.4.3 Ağ Adresi Çeviricisi
+#### 5.4.3 Ağ Adresi Çeviricisi
 
 Tümleşik yönlendirici, ISP'den genel bir adres alır ve bu adresi tümleşik yönlendiricinin İnternet'te paket gönderip almasını sağlar. Bunun sonucunda da yerel ağ istemcilerine özel adresler sağlar. İnternet'te özel adreslere izin verilmediğinden, yerel istemcilerin İnternet'te iletişim kurmasını sağlamak için, özel adreslerin benzersiz genel adreslere çevrilmesi gerekir.
 
