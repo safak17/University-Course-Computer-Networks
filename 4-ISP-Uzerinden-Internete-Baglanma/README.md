@@ -4,7 +4,7 @@ IP paketlerine datagram denir.
 
 Internet protokolü; verileri, uzunluğu 500-1500 bayt arasında olan ve geçerli bir kaynak ve hedef IP adresi içermesi gereken paketler halinde biçimlendirir.
 
-#### 4.2.3 Paketlerin İnternet Üzerinden İletilmesi
+#### 4.2.3 Paketlerin İnternet Üzerinden İletilmesi
 
 Ping, kaynak ve hedef arasındaki uçtan uca bağlantıyı sınar.
 
