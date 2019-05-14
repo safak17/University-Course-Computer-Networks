@@ -38,7 +38,7 @@ IEEE 802.11 standardı WLAN ortamını yönetir. Wi-Fi Alliance olarak bilinen b
 | 802.11 g | 2.4 GHz                | 54 Mbps          | Dış mekanda 100m etki alanı.                                 |
 | 802.11 n | 2.4 Ghz **veya** 5 Ghz | 540 Mbps         | Dış mekanda 250m etki alanı.                                 |
 
-#### 7.2.2 Kablosuz LAN Bileşenleri
+#### 7.2.2 Kablosuz LAN Bileşenleri
 
 **Kablosuz İstemci**: Kablosuz ağa katılabilen herhangi bir konak bilgisayar. Yaygın olarak istasyonun (STAtion) kısaltması olan STA şeklinde bilinir.
 
