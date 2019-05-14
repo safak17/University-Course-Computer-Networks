@@ -18,8 +18,6 @@ Alt ağ maskesi, IP adresinin hangi bölümünün ağ hangi bölümünün konak 
 
 127.0.0.0, geri döngü (loopback) adresidir.
 
-![İnternetten bir fotoğraf bul]()
-
 #### 5.2.1  IP Adresi Sınıfları ve Varsayılan Alt Ağ Maskeleri
 
 ![](./5-Photos/5-2-1.jpeg)
